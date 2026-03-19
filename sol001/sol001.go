@@ -1,4 +1,4 @@
-package main
+package sol001
 
 import (
 	"slices"
