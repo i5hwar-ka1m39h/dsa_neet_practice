@@ -2,8 +2,7 @@ package main
 
 import (
 	"fmt"
-
-	"github.com/i5hwar-ka1m39h/dsa_neet_practice/sol005"
+	// "github.com/i5hwar-ka1m39h/dsa_neet_practice/sol005"
 )
 
 // "fmt"
@@ -23,7 +22,8 @@ func main(){
 	// fmt.Println(result)
 	// fmt.Println([]int{})
 
-	fmt.Println(sol005.TopKFrequent([]int{4,1,-1,2,-1,2,3}, 2))
+	str := "my_name"
+	fmt.Println(int("5"))
 }
 
 
