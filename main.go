@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	// "github.com/i5hwar-ka1m39h/dsa_neet_practice/sol005"
 )
 
@@ -22,8 +21,7 @@ func main(){
 	// fmt.Println(result)
 	// fmt.Println([]int{})
 
-	str := "my_name"
-	fmt.Println(int("5"))
+
 }
 
 
