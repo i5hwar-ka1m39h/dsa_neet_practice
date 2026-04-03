@@ -1,8 +1,8 @@
 package main
 
-import (
-	// "github.com/i5hwar-ka1m39h/dsa_neet_practice/sol005"
-)
+import "fmt"
+
+// "github.com/i5hwar-ka1m39h/dsa_neet_practice/sol005"
 
 // "fmt"
 
@@ -20,7 +20,8 @@ func main(){
     // result:=sol003.TwoSum([]int{2,7,3,1}, 12)
 	// fmt.Println(result)
 	// fmt.Println([]int{})
-
+	bit := 1 << 9
+	fmt.Println(bit)
 
 }
 
